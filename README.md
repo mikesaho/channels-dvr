@@ -1,12 +1,5 @@
 # channels-dvr
-Channels DVR as an IPTV Source
+Use Channels DVR as an Source for other playback clients.  
 
-Back end Requirments
+The concept is simple:  Use the Channels DVR Server as a tuner for other applicaitons to use such as Emby, Plex or Perfect Player to watch Live TV.  Channels DVR provides many clients for watching Live TV, but I wanted the capability to watch Live TV in Emby using an old Roku device.  Channels DVR does not support Roku as a client (besides a basic beta version that does not get updates).
 
-Installed and configured Channels DVR Server
-Installed xmltv
-Installed xTeve Server
-
-IPTV Clients for testing
-
-Installed Emby or Plex Media Server
