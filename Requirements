@@ -1,0 +1,28 @@
+Basic Implementation: 
+
+    Back end Requirements: 
+      - Installed and configured Channels DVR Server 
+
+    Clients for testing: 
+      - Installed Emby or XBMC type Media Server (NOT Plex)
+
+  
+Advanced Implementation: 
+
+    Back end Requirements: 
+      - Installed and configured Channels DVR Server 
+      - Installed xmltv 
+      - Installed xTeve Server 
+      - Paid Schedules Direct Account 
+
+    Clients for testing: 
+      - Emby, Plex or XBMC type Media Server 
+      - IPTV Mobile App (for example Perfect Player) 
+      - VLC  
+
+Links:
+
+Channels DVR Servier:  https://getchannels.com/dvr-server/
+xmltv               :  http://wiki.xmltv.org/index.php/Main_Page
+xTeve               :  https://xteve.de/
+Schedules Direct    :  https://schedulesdirect.org/
